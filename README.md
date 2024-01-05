@@ -15,8 +15,7 @@ Personal Portfolio Website Hosted with Github Pages
   - Personal Projects overview
   - Project Collborations Overview
   - Open-source Contributions, etc
-- [**Support**](https://mekazstan.github.io/support): Crypto Support Page
-- [**Extras**](https://mekazstan.github.io/extras.html): Coming soon! 
+- [**Support**](https://mekazstan.github.io/support): Crypto Support Page 
 - [**Custom 404 Page**](https://mekazstan.github.io/404.html/): Entertaining and Calming Error Message, Link to Home Page, and Link to Report Issue through a Mail or Social Media account
 - Link to latest version of my [**Resume**](https://raw.githubusercontent.com/mekazstan/Resume/master/_Chukwuemeka Resume.pdf)
 
