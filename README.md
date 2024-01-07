@@ -37,3 +37,4 @@ Personal Portfolio Website Hosted with Github Pages
 - Chukwuemeka Asogwa <mekastans@gmail.com>
 
 
+[Download My Resume](https://github.com/Mekazstan/mekazstan.github.io/raw/main/Chukwuemeka-Resume.pdf)
