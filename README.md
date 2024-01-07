@@ -35,3 +35,6 @@ Personal Portfolio Website Hosted with Github Pages
 
 ## Maitainer:
 - Chukwuemeka Asogwa <mekastans@gmail.com>
+
+[Download My Resume](https://github.com/Mekazstan/mekazstan.github.io/raw/main/Chukwuemeka's%20Resume.pdf)
+
