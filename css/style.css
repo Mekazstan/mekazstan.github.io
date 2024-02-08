@@ -404,7 +404,7 @@ body {
 
   .intro-speech {
     color: rgb(197, 193, 193);
-    background-color: rgba(5, 1, 1, 0.701);
+    /* background-color: rgba(5, 1, 1, 0.701); */
     font-size: 150%;
   }
 
@@ -494,14 +494,15 @@ body {
   height: 70vh;
   background: grey;
   background-image: url("../images/bg.webp"); /*, url("../images/bg.webp"), url("../images/bg.png"); */
-  background-image: url("https://as1.ftcdn.net/v2/jpg/06/45/76/88/1000_F_645768816_4QXEAg0NHTuniQdQcoqayoM78Z6vu7zZ.jpg"); /* christmas village background */
+  background-image: url("https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  /* background-image: url("https://as1.ftcdn.net/v2/jpg/06/45/76/88/1000_F_645768816_4QXEAg0NHTuniQdQcoqayoM78Z6vu7zZ.jpg"); christmas village background */
   background-color: rgba(0, 0, 0, 0.7);
   background-size: cover;
   background-blend-mode: overlay;
   padding-top: 13px!important;
 }
 
-/* TODO: Why position relative? */
+
 #hero .container {
   position: relative;
 }
