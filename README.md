@@ -17,11 +17,11 @@ Personal Portfolio Website Hosted with Github Pages
   - Open-source Contributions, etc
 - [**Support**](https://mekazstan.github.io/support): Crypto Support Page 
 - [**Custom 404 Page**](https://mekazstan.github.io/404.html/): Entertaining and Calming Error Message, Link to Home Page, and Link to Report Issue through a Mail or Social Media account
-- Link to latest version of my [**Resume**](https://raw.githubusercontent.com/mekazstan/Resume/master/_Chukwuemeka Resume.pdf)
+- Link to latest version of my [**Resume**](https://github.com/Mekazstan/mekazstan.github.io/raw/main/Chukwuemeka-Resume.pdf)
 
 ## Personal Details
 - **Name**: Chukwuemeka Asogwa
-- **Title**: Engr.
+- **Title**: Data Engineer.
 - **Profession**: Data Engineer / Analyst
 - **Nationality**: Nigeria <img src="https://github.com/csmoore/country-flag-icons/raw/master/country-flags-4x3-png/ng.png" alt="drawing" width="15"/>
 
