@@ -21,7 +21,7 @@ Personal Portfolio Website Hosted with Github Pages
 
 ## Personal Details
 - **Name**: Chukwuemeka Asogwa
-- **Title**: Data Engineer.
+- **Title**: Data Engineer
 - **Profession**: Data Engineer / Analyst
 - **Nationality**: Nigeria <img src="https://github.com/csmoore/country-flag-icons/raw/master/country-flags-4x3-png/ng.png" alt="drawing" width="15"/>
 
