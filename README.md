@@ -39,4 +39,4 @@ Personal Portfolio Website Hosted with Github Pages
 
 [Download My Resume](https://github.com/Mekazstan/mekazstan.github.io/raw/main/Chukwuemeka-Resume.pdf)
 
-Let's Chat
+Let's Chat 👍
